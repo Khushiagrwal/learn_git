@@ -612,3 +612,6 @@ nothing to commit, working tree clean
 
 user@DESKTOP-5BOGB4B MINGW64 ~/OneDrive/Desktop/learn_github (master)
 $
+
+cd - change directory 
+cd tab --> by which get the list of directory 
